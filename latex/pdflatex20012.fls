@@ -1,0 +1,5 @@
+PWD D:/Documents/MA Economics/Courses - Winter 2022/ECON6645 - Applied Econometrics/Assignment 4/latex
+INPUT c:/texlive/2021/texmf.cnf
+INPUT c:/texlive/2021/texmf-dist/web2c/texmf.cnf
+INPUT c:/texlive/2021/texmf-var/web2c/pdftex/pdflatex.fmt
+INPUT Assignment4.tex
